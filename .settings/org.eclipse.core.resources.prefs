@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/checkout.jsp=UTF-8
+encoding//WebContent/home.jsp=UTF-8
+encoding//src/controller/CompleteOrderServlet.java=UTF-8
+encoding//src/model/dao/OrderDAO.java=UTF-8
